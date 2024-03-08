@@ -1,0 +1,25 @@
+.sobre {
+    text-align: center;
+    padding: 6em 2em;
+    
+}
+
+.sobre__titulo {
+    font-weight: 600;
+    color: var(--vinho);
+}
+
+.sobre__pergunta {
+    margin-top: 1rem;
+    font-size: 48px;
+    font-weight: 600;
+    color: #101828;
+
+}
+
+.sobre__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    margin: 1em 10em 0 10em;
+}
