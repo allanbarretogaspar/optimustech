@@ -10,10 +10,10 @@
 }
 
 .sobre__pergunta {
-    margin-top: 1rem;
+    margin: 1em 0;
     font-size: 48px;
     font-weight: 600;
-    color: #101828;
+    color: var(--preto-fonte);
 
 }
 
@@ -21,5 +21,5 @@
     font-size: 20px;
     font-weight: 400;
     color: var(--cinza-claro);
-    margin: 1em 10em 0 10em;
+    margin: 0 10em;
 }

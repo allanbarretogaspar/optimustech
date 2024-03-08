@@ -1,0 +1,28 @@
+.metricas-container {
+  display: flex;
+  align-items: center;
+  padding: 0 0 2em 6em;
+}
+
+.metricas-container__bloco {
+  width: 25%;
+  margin-right: 2em;
+}
+
+.metricas-container__bloco-titulo {
+  font-size: 60px;
+  font-weight: 600;
+  color: var(--vinho);
+}
+
+.metricas-container__bloco-subtitulo {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--preto-fonte);
+  margin: 1em 0;
+}
+
+.metricas-container__bloco-texto {
+  color: var(--cinza-claro);
+  text-align: left;
+}
